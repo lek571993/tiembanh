@@ -1,0 +1,12 @@
+ul li.aside_item a {
+    cursor: pointer;
+}
+.aside_sub_menu {
+    display: none;
+    list-style: none;
+}
+ul li ul.aside_sub_menu li {
+    border: none;
+    padding-top: 15px;
+    padding-left: 20px;
+}
